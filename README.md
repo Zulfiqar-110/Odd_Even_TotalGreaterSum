@@ -4,7 +4,8 @@
 Institution: University of the Fraser Valley
 Academic Session: Summer, 2021
 
--------------------------------------------# Problem Analysis #-------------------------------------------#
+-------------------------------------------# Problem Analysis #-------------------------------------------
+
 list of integers provided lst = [1; 4; 9; 16; 25; 28; 36; 33; 49; 64; 100; 81; 33]
 Step1 create function of odd-indexed elements
      1.1 if the denominator == 1 it is odd

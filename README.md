@@ -1,7 +1,9 @@
 # Odd_Even_TotalGreaterSum
 
-#Author: Zulfiqar Ali
+Author: Zulfiqar Ali
+
 Institution: University of the Fraser Valley
+
 Academic Session: Summer, 2021
 
 -------------------------------------------# Problem Analysis #-------------------------------------------
